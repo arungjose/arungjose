@@ -1,7 +1,13 @@
 <p align="center"><img width="711" height="400" alt="Cat and rain" src="https://github.com/user-attachments/assets/baace634-04f5-42f6-91fc-97da2989209c" /></p>
 
 <!-- Profile Header -->
-<h1 align="center"><img width="512" height="512" alt="kitty" src="https://github.com/user-attachments/assets/fa595b5d-64ed-415a-8b33-62ffe69c8490" />
+<h1 align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="your-dark-mode-image.png">
+  <source media="(prefers-color-scheme: light)" srcset="your-light-mode-image.png">
+  <img width="50" height="50" alt="kitty" src="https://github.com/user-attachments/assets/d80fde8b-6544-49b5-aea7-bc34db2753f1" />
+</picture>
+
  Hi, I'm <span style="color:#3776AB;">Arun</span></h1>
 <p align="center">
   <strong>Computer Science Undergraduate (2022–2026)</strong><br>
