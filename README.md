@@ -22,11 +22,15 @@ Curiosity drives me to learn, build, and constantly refine my craft.
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL/PostgreSQL" width="55" height="55" />
+  <!-- Badges -->
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 </p>
 
 ---
