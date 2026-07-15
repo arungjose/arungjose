@@ -1,4 +1,4 @@
-<p align="center"><img width="711" height="400" alt="Cat and rain" src="https://github.com/user-attachments/assets/baace634-04f5-42f6-91fc-97da2989209c" /></p>
+<img width="1280" height="620" alt="Sakura Cherry Blossom Pixel" src="https://github.com/user-attachments/assets/e77694e1-4ba4-4bf4-b4a8-72849d4ca40d" />
 
 <!-- Profile Header -->
 <h1 align="center">
