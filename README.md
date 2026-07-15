@@ -1,4 +1,4 @@
-<img width="711" height="400" alt="Cat and rain" src="https://github.com/user-attachments/assets/baace634-04f5-42f6-91fc-97da2989209c" />
+<img align="center" width="711" height="400" alt="Cat and rain" src="https://github.com/user-attachments/assets/baace634-04f5-42f6-91fc-97da2989209c" />
 
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#3776AB;">Arun G. Jose</span></h1>
