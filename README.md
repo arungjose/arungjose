@@ -1,7 +1,8 @@
 <p align="center"><img width="711" height="400" alt="Cat and rain" src="https://github.com/user-attachments/assets/baace634-04f5-42f6-91fc-97da2989209c" /></p>
 
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#3776AB;">Arun G. Jose</span></h1>
+<h1 align="center"><img width="512" height="512" alt="kitty" src="https://github.com/user-attachments/assets/fa595b5d-64ed-415a-8b33-62ffe69c8490" />
+ Hi, I'm <span style="color:#3776AB;">Arun</span></h1>
 <p align="center">
   <strong>Computer Science Undergraduate (2022–2026)</strong><br>
   Driven by a deep passion for <b>AI</b>, <b>Machine Learning</b>, and <b>System Design</b>.<br>
