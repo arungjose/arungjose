@@ -1,4 +1,5 @@
-<img width="736" height="414" alt="8c52a5e6459e815fb882b5e9a00f5d2b" src="https://github.com/user-attachments/assets/a2bcbe2e-1a7c-41c0-8adb-88063cb19b5a" />
+<img width="1920" height="1080" alt="download" src="https://github.com/user-attachments/assets/f16d8268-2630-46d8-aa80-b8892860f60d" />
+
 
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#3776AB;">Arun G. Jose</span></h1>
